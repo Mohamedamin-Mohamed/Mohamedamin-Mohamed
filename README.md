@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Hey there, I'm Mohamedamin! 👋
 
-👋 Hello, I'm Mohamedamin, an aspiring Software Engineer and an enthusiastic Amazonian 🌟.
+👋 An aspiring Software Engineer and an enthusiastic Amazonian 🌟.
 
 🎓 Education: Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Dean’s List honoree (Fall 2021- Spring 2023), and active member of ACM club.
 
