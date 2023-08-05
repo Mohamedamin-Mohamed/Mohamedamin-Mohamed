@@ -2,7 +2,7 @@
 
 👋 An aspiring Software Engineer and an enthusiastic Amazonian 🌟.
 
-🎓 Education: Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Dean’s List honoree (Fall 2021- Spring 2023), and active member of ACM club.
+🎓 Education: Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025 and active member of ACM club
 
 💼 Work: Currently part of the Amazon family, contributing as an Inbound Associate. I thrive on managing inventory efficiently and optimizing workflows for seamless operations.
 
