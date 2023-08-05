@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hey there, I'm Mohamedamin! 👋
 
 👋 An aspiring Software Engineer and an enthusiastic Amazonian 🌟.
