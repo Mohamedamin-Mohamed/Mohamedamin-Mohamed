@@ -1,6 +1,6 @@
 ## Hey there, I'm Mohamedamin! 👋
 
-👋 An aspiring Software Engineer and an enthusiastic Amazonian 🌟.
+👋 An aspiring Software Engineer 🌟.
 
 🎓 Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025 and active member of ACM club.
 
