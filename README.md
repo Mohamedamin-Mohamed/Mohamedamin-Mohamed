@@ -8,5 +8,5 @@ Currently part of the Amazon family, contributing as an Inbound Associate. I thr
 Contact: You can contact me at mohamedamin204080@gmail.com
 
 💻 Technical Proficiency: 
-Proficient in Java, C#, JavaScript/HTML/CSS, SQL; familiar with C and Python. Experienced in technologies such as React, MySQL, Microsoft SQL Server, GIT/GitHub/GitLab, Linux, Eclipse, and VS Code.
+Proficient in Java, C#, JavaScript/HTML/CSS, SQL; familiar with C and Python. Experienced in technologies such as React, NodeJs, ExpressJs, MySQL, Microsoft SQL Server, GIT/GitHub/GitLab, Linux, Eclipse, and VS Code.
 
