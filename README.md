@@ -1,4 +1,4 @@
-## Hey there, I'm Mohamedamin! 👋
+## Hey there, I'm Mohamedamin! SWE Intern @ John Deere👋
 
 👋 An aspiring Software Engineer 🌟.
 
