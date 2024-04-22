@@ -1,6 +1,6 @@
-## Hey there, I'm Mohamedamin! SWE Intern @ John Deere👋
+## Hey there, I'm Mohamedamin! 👋
 
-👋 An aspiring Software Engineer 🌟.
+👋 SWE Intern @ John Deere 🌟.
 
 🎓 Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025.
 
