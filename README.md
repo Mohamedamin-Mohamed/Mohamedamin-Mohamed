@@ -9,8 +9,8 @@ Previously Interned at John Deere, part of the Deere Financial Team as a full st
 💻 Technical Proficiency: 
 Java, C#, JavaScript/HTML/CSS, SQL, C and Python. Experienced in technologies such as ReactJs, NodeJs, ExpressJs, Spring Boot Redux, MySQL, Microsoft SQL Server, DynamoDB, AWS, GIT/GitHub/GitLab, Linux, Intellij, Eclipse, and VS Code. 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,java,cs)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,replit)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,linux)](https://skillicons.dev)
 
