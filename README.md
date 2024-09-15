@@ -12,6 +12,6 @@ Java, C#, JavaScript/HTML/CSS, SQL, C and Python. Experienced in technologies su
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,replit)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=,postman,git,github,gitlab,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,linux)](https://skillicons.dev)
 
 
