@@ -6,7 +6,7 @@
 
 Previously Interned at John Deere, part of the Deere Financial Team as a full stack Software Engineer at the HQ. You can contact me at mohamedamin204080@gmail.com
 
-##💻 Teck Stack
+## Teck Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cs,ts)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,replit)](https://skillicons.dev)
