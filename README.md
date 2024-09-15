@@ -9,3 +9,5 @@ Previously Interned at John Deere, part of the Deere Financial Team as a full st
 💻 Technical Proficiency: 
 Java, C#, JavaScript/HTML/CSS, SQL, C and Python. Experienced in technologies such as ReactJs, NodeJs, ExpressJs, Spring Boot Redux, MySQL, Microsoft SQL Server, DynamoDB, AWS, GIT/GitHub/GitLab, Linux, Intellij, Eclipse, and VS Code. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedamin-Mohamed)](https://github.com/anuraghazra/github-readme-stats)
+
