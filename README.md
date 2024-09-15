@@ -13,7 +13,7 @@ Previously Interned at John Deere, part of the Deere Financial Team as a full st
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,linux)](https://skillicons.dev)
 
 ## 📇 Contact Me
-Linkedn: https://www.linkedin.com/in/mohamedamin-mohamed/
+Linkedn: https://www.linkedin.com/in/mohamedamin-mohamed/  
 Email: mohamedamin204080@gmail.com
 
 
