@@ -14,7 +14,6 @@ public class FunReadMeAnimation {
         String message = " Welcome to my GitHub! ";
         String blankSpace = " ".repeat(50); // Adjust this for desired space
         String displayMessage = blankSpace + message;
-
         while (true) {
             System.out.print("\r" + displayMessage);
             displayMessage = displayMessage.substring(1) + displayMessage.charAt(0);
