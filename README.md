@@ -9,17 +9,6 @@ Previously Interned at John Deere, part of the Deere Financial Team as a full st
 💻 Technical Proficiency: 
 Java, C#, JavaScript/HTML/CSS, SQL, C and Python. Experienced in technologies such as ReactJs, NodeJs, ExpressJs, Spring Boot Redux, MySQL, Microsoft SQL Server, DynamoDB, AWS, GIT/GitHub/GitLab, Linux, Intellij, Eclipse, and VS Code. 
 
-public class FunReadMeAnimation {
-    public static void main(String[] args) throws InterruptedException {
-        String message = " Welcome to my GitHub! ";
-        String blankSpace = " ".repeat(50); // Adjust this for desired space
-        String displayMessage = blankSpace + message;
-        while (true) {
-            System.out.print("\r" + displayMessage);
-            displayMessage = displayMessage.substring(1) + displayMessage.charAt(0);
-            Thread.sleep(200); // Adjust for speed
-        }
-    }
-}
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
