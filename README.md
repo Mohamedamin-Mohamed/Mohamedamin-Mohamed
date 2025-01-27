@@ -2,7 +2,7 @@
 
 ## 📮 About Me
 
-Prev. SWE Intern @ John Deere 🌟.  
+Prev. SWE Intern @ John Deere Financial🌟.  
 🎓 Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025.
 
 Previously Interned at John Deere, part of the Deere Financial Team as a full stack Software Engineer at John Deere Financial HQ.
