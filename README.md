@@ -2,7 +2,7 @@
 
 ## 📮 About Me
 Learning Trainer @ Amazon
-##
+
 Prev. SWE Intern @ John Deere Financial🌟.  
 🎓 Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025.
 
