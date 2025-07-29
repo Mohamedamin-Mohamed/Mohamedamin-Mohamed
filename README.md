@@ -1,10 +1,13 @@
 ### Hey there, My name is Mohamedamin! 👋
 
 ## 📮 About Me
-Prev. SWE Intern @ John Deere Financial🌟.  
-🎓 Pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-River Falls. Expected graduation date 05/2025.
+Prev. SWE Intern @ John Deere Financial🌟
+🎓 Graduated with a Bachelor of Science in Computer Science from the University of Wisconsin–River Falls (05/2025).
 
-Previously Interned at John Deere, part of the Deere Financial Team as a full stack Software Engineer at John Deere Financial HQ.
+Currently working as a Backend Intern at SmartThings, a subsidiary of Samsung Electronics on the PIPE (Pipeline for IoT Platform Events) team.
+
+Previously interned at John Deere Financial as a Full Stack Engineer on the JDSC (John Deere Sale Centre) team.
+
 ## Teck Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cs,ts)](https://skillicons.dev)  
