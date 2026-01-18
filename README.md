@@ -9,7 +9,7 @@ Currently working as a Backend Intern at SmartThings, a subsidiary of Samsung El
 Previously interned at John Deere Financial as a Full Stack Engineer on the JDSC (John Deere Sale Centre) team.
 
 ## Teck Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,spring,express,aws,dynamodb,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=kafka,react,redux,spring,express,aws,dynamodb,postgres,mysql,maven,nodejs,npm,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cs,ts)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,replit)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,linux)](https://skillicons.dev)
